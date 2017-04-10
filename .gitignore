@@ -1,0 +1,21 @@
+#Xcode 
+
+## Dont track xcode default folder
+*.xcodeproj/*
+*.plist
+*.framework/*
+
+## Build generated
+build/
+DerivedData/
+*.xcworkspace
+!default.xcworkspace
+xcuserdata
+profile
+*.moved-aside
+.idea/
+
+# Pods - for those of you who use CocoaPods
+Pods
+Podfile
+Podfile.lock
