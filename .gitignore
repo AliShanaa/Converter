@@ -1,5 +1,3 @@
-#Xcode 
-
 ## Dont track xcode default folder
 *.xcodeproj/*
 *.plist
@@ -19,3 +17,6 @@ profile
 Pods
 Podfile
 Podfile.lock
+
+# Extra
+
