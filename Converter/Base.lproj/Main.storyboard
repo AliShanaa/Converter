@@ -182,7 +182,7 @@
                                                     <fontDescription key="fontDescription" type="system" weight="medium" pointSize="14"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="DNS-tv-1eC" customClass="BEMCheckBox">
+                                                <view userInteractionEnabled="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="DNS-tv-1eC" customClass="BEMCheckBox">
                                                     <rect key="frame" x="315" y="15" width="30" height="30"/>
                                                     <color key="backgroundColor" red="0.27124345302581787" green="0.67455345392227173" blue="0.77731245756149292" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                     <constraints>
